@@ -1,4 +1,3 @@
-# coding = utf-8
 
 # task1
 def func(x):
