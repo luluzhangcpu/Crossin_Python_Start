@@ -1,5 +1,3 @@
-# coding = utf-8
-
 # task1
 lst = [1,2,3]
 print(lst[0])
