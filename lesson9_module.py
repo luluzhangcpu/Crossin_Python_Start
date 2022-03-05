@@ -1,5 +1,3 @@
-# coding = utf-8
-
 from math import pi as math_pi
 from random import randint
 
