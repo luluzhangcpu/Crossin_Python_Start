@@ -1,4 +1,3 @@
-
 # task1
 def func(x):
     print(x)
