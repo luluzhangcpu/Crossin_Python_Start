@@ -1,5 +1,3 @@
-# coding = utf-8
-
 # task1
 money = 88
 if money > 100:
