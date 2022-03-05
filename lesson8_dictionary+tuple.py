@@ -1,5 +1,3 @@
-# coding = utf-8
-
 # task1
 data = {'one':1,'two':2,'three':3}
 data['two'] = 4
